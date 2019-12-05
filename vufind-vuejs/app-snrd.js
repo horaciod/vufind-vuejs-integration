@@ -83,7 +83,7 @@ var app = new Vue({
       //this.filters.push('recordtype:thesis') ; 
       axios.get(conf.apiurl,
         {
-          crossDomain: true,
+          crossDomain: false,
           params:
             {
               lookfor: this.buscar,
