@@ -8,8 +8,8 @@ const conf = {
     'topic_facet':'Topics', 
     'format':'Format'
   },
-  apiurl:'http://repositoriosdigitales.mincyt.gob.ar/vufind/api/v1/search',
-  urlrecords:'http://repositoriosdigitales.mincyt.gob.ar/vufind/Record/'
+  apiurl:'http://lareferencia.info/vufind/api/v1/search',
+  urlrecords:'http://lareferencia.info/vufind/Record/'
 };
 //
 /*
