@@ -8,8 +8,8 @@ const conf = {
     'topic_facet':'Topics', 
     'format':'Format'
   },
-  apiurl:'http://lareferencia.info/vufind/api/v1/search',
-  urlrecords:'http://lareferencia.info/vufind/Record/'
+  apiurl:'http://www.lareferencia.info/vufind/api/v1/search',
+  urlrecords:'http://www.lareferencia.info/vufind/Record/'
 };
 //
 /*
